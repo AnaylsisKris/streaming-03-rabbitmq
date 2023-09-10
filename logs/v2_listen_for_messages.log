@@ -1,0 +1,11 @@
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO ==================================================
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO Today is 2023-09-10 at 12:45 AM
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO Running on: posix Darwin 22.5.0
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO Python version:  3.9.6
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO Python path: /Users/kristenfinley/Documents/streaming-03-rabbitmq/.venv
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO Working dir: /Users/kristenfinley/Documents/streaming-03-rabbitmq
+2023-09-10 00:45:34,610.v2_listen_for_messages.INFO ==================================================
+2023-09-10 00:45:34,621.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-10 00:45:34,621.v2_listen_for_messages.INFO Received: Hello World!
+2023-09-10 00:45:56,778.v2_listen_for_messages.WARNING User interrupted the listening process.
+2023-09-10 00:45:56,778.v2_listen_for_messages.INFO Closing connection. Goodbye.
